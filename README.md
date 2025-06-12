@@ -231,8 +231,7 @@ After resolving configuration issues, test the full integration:
 
 ## License
 
-[Your License Here]
 
 ## Contact
 
-For assistance, please contact [Your Contact Information]
+For assistance, please contact meka.lindquist@mirrorwell.io
